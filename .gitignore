@@ -1,0 +1,4 @@
+﻿*.log
+_*.js
+backups/
+.git/
